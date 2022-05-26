@@ -1,8 +1,10 @@
 # Michael Croft
-_Senior Software Architect_
+_Senior Software Architect and avid BBQ/Smoker enthusiast_\
+[Email](mailto:croft.m@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelecroft/) | [Twitter](https://twitter.com/croft_m)
+ | [GitHub](https://github.com/mcroft) 
 
-**Tools and Services by temp:**
-_Well-done:_\
+**Tools and Services by temp:**\
+_Well-done:_
 - MS SQL Server, SSIS, SSRS, log-shipping, Azure SQL, AWS RDS with MS SQL Server
 - ASP.NET Web Forms
 -  ASP.Net WebApi
@@ -19,14 +21,10 @@ _Medium:_
 - Entity Framework Core
 - Selenium
 
-Rare:
+_Rare:_
 - AngularJs, Angular
 - Kendo UI (jQuery, Angular, ASP.Net MVC)
 - Azure Bot Framework
-
-
-[Email](mailto:croft.m@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelecroft/) | [Twitter](https://twitter.com/croft_m)
- | [GitHub](https://github.com/mcroft) 
  
 ## Professional Experience
 ### Senior Software Architect
