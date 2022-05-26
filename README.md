@@ -1,6 +1,30 @@
 # Michael Croft
 _Senior Software Architect_
 
+**Tools and Services by temp:**
+_Well-done:_\
+- MS SQL Server, SSIS, SSRS, log-shipping, Azure SQL, AWS RDS with MS SQL Server
+- ASP.NET Web Forms
+-  ASP.Net WebApi
+- Entity Framework 6
+- jQuery
+- HTML CSS Javascript
+- Ektron CMS
+- Sitefinity CMS
+- Azure SQL, App Services
+
+_Medium:_
+- ASP.NET MVC, Unity DI, Repository
+- .Net Core
+- Entity Framework Core
+- Selenium
+
+Rare:
+- AngularJs, Angular
+- Kendo UI (jQuery, Angular, ASP.Net MVC)
+- Azure Bot Framework
+
+
 [Email](mailto:croft.m@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelecroft/) | [Twitter](https://twitter.com/croft_m)
  | [GitHub](https://github.com/mcroft) 
  
